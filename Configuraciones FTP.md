@@ -16,7 +16,7 @@ Despues asignar una direccion ip y servicios DHCP para que asigne ip automaticam
 **Direccion de inicio ip del DHCP del servidor**
 
 ~~~~
-192.168.03
+192.168.06
 ~~~~
 
 Desde este punto se asignara ip alos equipos:
